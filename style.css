@@ -48,6 +48,10 @@ input {
   border:0;
 }
 
+.hero img {
+  height: 500px;
+  width: 600px;
+}
 
 section, footer {
   text-align: center;
